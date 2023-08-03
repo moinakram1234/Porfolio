@@ -81,7 +81,7 @@ function Navbar() {
     drawerItem: {
       margin: "2rem auto",
       borderRadius: "78.8418px",
-      background: 'green',
+      background: theme.primary,
       color: "white",
       width: "85%",
       height: "60px",
